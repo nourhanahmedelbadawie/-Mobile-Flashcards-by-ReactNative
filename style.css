@@ -1,0 +1,18 @@
+
+footer .footer-top-inner.custome-footer-top .col-md-7
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ================Quik view product home=================== */
+.mobile-sticky .product-options-bottom .box-tocart button.action.tocart{
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
